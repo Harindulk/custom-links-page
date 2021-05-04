@@ -12,3 +12,6 @@ Contains basic configuration to get you a links page with:
 - Sample Profile about.
 - Sample Footer Links.
 - Sample Fontawesome icons.
+
+Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+
