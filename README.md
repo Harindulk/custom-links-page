@@ -1,4 +1,4 @@
-## custom-links-page - [Preview](https://harindulk.github.io/custom-links-page/)
+## Custom links page - [preview](https://harindulk.github.io/custom-links-page/)
 
 Click [**Use this template**](https://github.com/Harindulk/custom-linktree-page/generate) button above for the quickest method of getting started with the [custom-links-page](https://github.com/Harindulk/custom-links-page).
 
