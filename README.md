@@ -39,5 +39,3 @@ choose your branch, select root & click save
 
 ![image](https://user-images.githubusercontent.com/61319844/140548993-2e83a688-2199-4455-968c-da2a60c1f49f.png)
  
-
-source - https://docs.github.com/en/pages
