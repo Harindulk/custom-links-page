@@ -1,6 +1,6 @@
 let config = {
-  "Title": "Your Name - Links",
-  "Name": "Your Name",
+  "Title": "https://graph.org/file/6983bd0aea049c1915faa.jpg",
+  "Name": "JISSHU BOTS",
   "Description": "Your Description",
   "links": [
     {
