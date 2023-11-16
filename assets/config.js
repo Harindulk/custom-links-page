@@ -4,7 +4,7 @@ let config = {
   "Description": "Your Description",
   "links": [
     {
-      "Title": "telegram",
+      "Title": "Telegram",
       "URL": "https://t.me/IM_JISSHU",
       "icon_classes": "fab fa-telegram",
     },
@@ -14,7 +14,7 @@ let config = {
       "icon_classes": "fab fa-youtube",
     },
     {
-      "Title": "TELEGRAM CHANNEL",
+      "Title": "Telegram channel",
       "URL": "https://t.me/JISSHU_BOTS",
       "icon_classes": "fab fa-telegram"
     },
